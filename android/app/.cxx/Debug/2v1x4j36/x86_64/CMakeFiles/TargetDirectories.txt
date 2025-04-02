@@ -1,0 +1,2 @@
+C:/Users/sungt/Desktop/swwwwim/swwwwim/android/app/.cxx/Debug/2v1x4j36/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/sungt/Desktop/swwwwim/swwwwim/android/app/.cxx/Debug/2v1x4j36/x86_64/CMakeFiles/rebuild_cache.dir
